@@ -11,7 +11,7 @@ html {
 }
 body {
     background-color: gray;
-    background-image: url("resources/background-modififed.png");
+    background-image: url("./resources/background-modififed.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
